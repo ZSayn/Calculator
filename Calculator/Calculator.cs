@@ -21,6 +21,7 @@
         // entered by the user
         private decimal operand1;
         private decimal operand2;
+        private decimal operand3; 
         private Operation op;
         private enum Operation { Add, Subtract, Multiply, Divide, SquareRoot, Reciprocal, None };
 
