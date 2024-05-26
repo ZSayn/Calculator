@@ -144,6 +144,9 @@
 
             hasDecimal = false;
             isNewValue = true;
+
+            hasDecimal = false;
+            isNewValue = true;
         }
     }
 }
